@@ -1,0 +1,23 @@
+{
+  "name": "foj-crawler",
+  "version": "1.0.0",
+  "description": "a crawler to save problems for training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreestyleOJ/crawler.git"
+  },
+  "keywords": [
+    "foj",
+    "crawler"
+  ],
+  "author": "sirius.caffrey@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FreestyleOJ/crawler/issues"
+  },
+  "homepage": "https://github.com/FreestyleOJ/crawler#readme"
+}
